@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="PageObjectModel Framework" verbose="1" preserve-order="true" parallel="classes" thread-count="3">
+  
+ <!--  <listeners>
+  <listener class-name="com.test.POM.customListners.RetryListener"></listener>
+  </listeners> -->
+  <test name="Homepage" >
+    <classes>
+      <class name="com.test.POM.homepage.TC001_LoginWithInvalidCredential"/> 
+      <!-- <class name="com.test.POM.homepage.TC0002_CreateAnAccount"/> -->
+      <!-- <class name="com.test.POM.homepage.TC0003_VerifyLoginWithDifferentRecords"/> -->
+    </classes>
+    <!-- <test name="FirefoxTest" >
+   <parameter name="browser" value="firefox" />
+      <classes>
+       <class name="com.test.POM.homepage.TC0002_CreateAnAccount"></class>
+
+      </classes>
+   </test> -->
+ <!-- </test>
+  <test name="AddToCart" >
+    <classes>
+      <class name="com.test.POM.addToCart.TC001_VerifyAaddToCart"/>
+      <class name="com.test.POM.addToCart.TC002_VerifyFacebookLink"/>
+    </classes>-->
+     </test> 
+</suite>
