@@ -1,0 +1,1373 @@
+2017-07-11 19:51:36 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-11 19:51:36 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-11 19:51:38 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-11 19:51:38 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-11 19:51:38 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-11 19:51:38 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-11 19:51:38 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-11 19:51:38 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-11 19:51:38 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-11 19:51:38 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-11 19:51:41 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> id: SubmitLogin]
+2017-07-11 19:52:31 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6856_24573}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: e4fd9c344be8a09cd21fd80e6386819b
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-11 19:52:31 INFO  Homepage:115 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-11 19:52:31 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-11 19:52:31 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-11 19:52:34 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-11 19:52:34 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-11 19:52:34 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-11 19:52:34 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-11 19:52:36 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-11 19:52:36 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-11 19:52:36 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-11 19:52:36 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-11 19:52:36 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-11 19:52:36 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-11 19:52:36 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-11 19:52:36 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-11 19:52:38 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> id: SubmitLogin]
+2017-07-11 19:53:28 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6856_24573}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: e4fd9c344be8a09cd21fd80e6386819b
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-11 19:53:28 INFO  Homepage:115 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-11 19:53:28 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-11 19:53:28 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-11 19:53:31 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-11 19:53:31 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-11 19:53:31 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-11 19:53:31 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-11 19:53:32 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-11 19:53:32 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-11 19:53:32 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-11 19:53:32 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-11 19:53:32 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-11 19:53:32 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-11 19:53:33 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-11 19:53:33 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-11 19:53:34 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> id: SubmitLogin]
+2017-07-11 19:54:24 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6856_24573}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: e4fd9c344be8a09cd21fd80e6386819b
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-11 19:54:24 INFO  Homepage:115 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-11 19:54:24 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-11 19:54:25 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-11 19:54:25 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-11 19:54:25 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-11 19:54:25 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-11 19:54:28 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-11 19:54:29 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-11 19:54:29 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-11 19:54:29 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-11 19:54:29 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-11 19:54:29 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-11 19:54:29 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-11 19:54:29 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-11 19:54:29 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-11 19:54:31 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> id: SubmitLogin]
+2017-07-11 19:55:21 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6856_24573}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: e4fd9c344be8a09cd21fd80e6386819b
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-11 19:55:21 INFO  Homepage:115 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-11 19:55:22 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-11 19:55:22 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-11 19:55:25 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e4fd9c344be8a09cd21fd80e6386819b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-11 19:55:25 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-13 14:18:44 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-13 14:18:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 14:18:47 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 14:18:47 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 14:18:47 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 14:18:47 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-13 14:18:47 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-13 14:18:47 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-13 14:18:47 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-13 14:18:47 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 14:18:49 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> id: SubmitLogin]
+2017-07-13 14:19:39 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir11184_7971}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4bc9edb2ad6ba20b26eaf5df80605521
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-13 14:19:39 INFO  Homepage:115 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-13 14:19:39 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 14:19:40 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 14:19:42 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-13 14:19:42 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-13 14:19:42 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-13 14:19:42 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 14:19:43 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 14:19:43 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 14:19:43 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 14:19:43 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-13 14:19:43 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-13 14:19:43 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-13 14:19:43 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-13 14:19:43 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 14:19:45 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> id: SubmitLogin]
+2017-07-13 14:20:35 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir11184_7971}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4bc9edb2ad6ba20b26eaf5df80605521
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-13 14:20:35 INFO  Homepage:115 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-13 14:20:35 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 14:20:35 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 14:20:37 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-13 14:20:37 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-13 14:20:37 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-13 14:20:38 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 14:20:39 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 14:20:39 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 14:20:39 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 14:20:39 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-13 14:20:39 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-13 14:20:39 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-13 14:20:39 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-13 14:20:39 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 14:20:41 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> id: SubmitLogin]
+2017-07-13 14:21:31 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir11184_7971}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4bc9edb2ad6ba20b26eaf5df80605521
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-13 14:21:31 INFO  Homepage:115 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-13 14:21:31 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 14:21:31 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 14:21:33 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-13 14:21:33 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-13 14:21:33 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-13 14:21:33 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 14:21:35 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 14:21:35 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 14:21:35 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 14:21:35 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-13 14:21:35 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-13 14:21:35 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-13 14:21:35 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-13 14:21:35 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 14:21:37 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> id: SubmitLogin]
+2017-07-13 14:22:27 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir11184_7971}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4bc9edb2ad6ba20b26eaf5df80605521
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-13 14:22:27 INFO  Homepage:115 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-13 14:22:27 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 14:22:27 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 14:22:30 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4bc9edb2ad6ba20b26eaf5df80605521)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-13 14:22:30 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-13 15:02:25 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-13 15:02:25 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 15:02:27 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 15:02:27 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 15:02:27 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 15:02:27 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-13 15:02:28 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-13 15:02:28 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-13 15:02:28 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-13 15:02:28 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 15:02:28 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 15:02:30 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> id: SubmitLogin]
+2017-07-13 15:03:20 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir10372_25467}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a9f2f34bb7a76d6bfb70de9189f75d73
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-13 15:03:20 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-13 15:03:20 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 15:03:20 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 15:03:23 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-13 15:03:23 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-13 15:03:23 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-13 15:03:23 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 15:03:24 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 15:03:24 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 15:03:24 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 15:03:24 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-13 15:03:24 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-13 15:03:24 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-13 15:03:24 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-13 15:03:24 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 15:03:24 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 15:03:26 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> id: SubmitLogin]
+2017-07-13 15:04:16 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir10372_25467}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a9f2f34bb7a76d6bfb70de9189f75d73
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-13 15:04:16 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-13 15:04:16 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 15:04:17 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 15:04:19 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-13 15:04:19 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-13 15:04:19 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-13 15:04:19 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 15:04:20 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 15:04:20 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 15:04:20 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 15:04:21 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-13 15:04:21 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-13 15:04:21 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-13 15:04:21 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-13 15:04:21 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 15:04:21 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 15:04:22 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> id: SubmitLogin]
+2017-07-13 15:05:12 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir10372_25467}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a9f2f34bb7a76d6bfb70de9189f75d73
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-13 15:05:12 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-13 15:05:13 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 15:05:13 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 15:05:15 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-13 15:05:15 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-13 15:05:15 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-13 15:05:15 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 15:05:16 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 15:05:16 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-13 15:05:16 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-13 15:05:16 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-13 15:05:16 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-13 15:05:16 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-13 15:05:16 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-13 15:05:16 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 15:05:17 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-13 15:05:18 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> id: SubmitLogin]
+2017-07-13 15:06:08 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir10372_25467}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a9f2f34bb7a76d6bfb70de9189f75d73
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-13 15:06:08 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-13 15:06:08 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 15:06:09 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-13 15:06:11 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a9f2f34bb7a76d6bfb70de9189f75d73)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-13 15:06:11 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-14 23:20:40 INFO  TestBase:28 - =======Starting verifyAaddToCart test========
+2017-07-14 23:20:40 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-14 23:20:43 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (c71b9718a59b05baf660ee7a5308be5b)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-14 23:20:43 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:20:43 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:20:44 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (c71b9718a59b05baf660ee7a5308be5b)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-14 23:20:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-07-14 23:20:47 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (c71b9718a59b05baf660ee7a5308be5b)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-07-14 23:20:48 INFO  TestBase:194 - browser closed
+2017-07-14 23:24:31 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-14 23:24:31 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:24:33 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (1b60342272c0f026c760bf28725e570e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:24:33 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:24:33 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (1b60342272c0f026c760bf28725e570e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:24:33 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:24:33 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-14 23:24:33 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:24:34 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-14 23:24:34 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:24:36 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (1b60342272c0f026c760bf28725e570e)] -> id: SubmitLogin]
+2017-07-14 23:25:36 INFO  TestBase:28 - =======Starting verifyAaddToCart test========
+2017-07-14 23:25:36 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-14 23:25:39 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (7a571c2dc1564f104591ced448b6e175)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-14 23:25:39 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:25:39 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:25:41 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (7a571c2dc1564f104591ced448b6e175)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-14 23:25:41 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-07-14 23:25:43 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (7a571c2dc1564f104591ced448b6e175)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-07-14 23:25:44 INFO  TestBase:194 - browser closed
+2017-07-14 23:27:06 INFO  TestBase:28 - =======Starting verifyAaddToCart test========
+2017-07-14 23:27:06 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-14 23:27:09 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (5635203f922aff0d09e4d7510a33ee31)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-14 23:27:09 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:27:09 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:27:10 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (5635203f922aff0d09e4d7510a33ee31)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-14 23:27:10 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-07-14 23:27:12 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (5635203f922aff0d09e4d7510a33ee31)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-07-14 23:27:14 INFO  TestBase:194 - browser closed
+2017-07-14 23:28:24 INFO  TestBase:28 - =======Starting verifyAaddToCart test========
+2017-07-14 23:28:24 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-14 23:28:27 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (611c9f0162cbd4781f56dc0f14bd1e13)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-14 23:28:27 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:28:27 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:28:29 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (611c9f0162cbd4781f56dc0f14bd1e13)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-14 23:29:19 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='center_column']/ul/li/div/div[2]/h55/a[contains(text(),'Printed Dress')]"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir4020_746}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 611c9f0162cbd4781f56dc0f14bd1e13
+*** Element info: {Using=xpath, value=.//*[@id='center_column']/ul/li/div/div[2]/h55/a[contains(text(),'Printed Dress')]}
+2017-07-14 23:29:20 INFO  TestBase:194 - browser closed
+2017-07-14 23:30:58 INFO  TestBase:32 - =======Starting verifyAaddToCart test========
+2017-07-14 23:30:58 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-14 23:31:01 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (6fe49c989d9bc916dce0a816c5b3f721)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-14 23:31:01 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:31:01 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:31:03 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (6fe49c989d9bc916dce0a816c5b3f721)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-14 23:31:03 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-07-14 23:31:05 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (6fe49c989d9bc916dce0a816c5b3f721)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-07-14 23:31:05 INFO  WebEvenListener:125 - Found Element By : By.cssSelector: .facebook>a
+2017-07-14 23:31:05 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (6fe49c989d9bc916dce0a816c5b3f721)] -> css selector: .facebook>a]
+2017-07-14 23:31:57 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".fb_logo.img.sp_apXA4TNie-C.sx_d16af2"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 52.34 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir5908_2983}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6fe49c989d9bc916dce0a816c5b3f721
+*** Element info: {Using=css selector, value=.fb_logo.img.sp_apXA4TNie-C.sx_d16af2}
+2017-07-14 23:31:59 INFO  TestBase:194 - browser closed
+2017-07-14 23:32:41 INFO  TestBase:32 - =======Starting verifyAaddToCart test========
+2017-07-14 23:32:42 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-14 23:32:44 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (375fcc33bbe2c21f709328e0c91fba95)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-14 23:32:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:32:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:32:46 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (375fcc33bbe2c21f709328e0c91fba95)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-14 23:32:46 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-07-14 23:32:48 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (375fcc33bbe2c21f709328e0c91fba95)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-07-14 23:32:48 INFO  WebEvenListener:125 - Found Element By : By.cssSelector: .facebook>a
+2017-07-14 23:32:48 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (375fcc33bbe2c21f709328e0c91fba95)] -> css selector: .facebook>a]
+2017-07-14 23:33:40 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".fb_logo.img.sp_apXA4TNie-C.sx_d16af2"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 51.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir7220_22677}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 375fcc33bbe2c21f709328e0c91fba95
+*** Element info: {Using=css selector, value=.fb_logo.img.sp_apXA4TNie-C.sx_d16af2}
+2017-07-14 23:33:41 INFO  TestBase:194 - browser closed
+2017-07-14 23:36:00 INFO  TestBase:56 - Creating object of chrome
+2017-07-14 23:36:14 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-14 23:36:15 INFO  TestBase:56 - Creating object of chrome
+2017-07-14 23:36:26 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-14 23:36:27 INFO  TC0002_CreateAnAccount:32 - ================ Starting Test ==================
+2017-07-14 23:36:27 INFO  TC001_LoginWithInvalidCredential:29 - ================ Starting Test ==================
+2017-07-14 23:36:27 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:36:27 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:36:28 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-14 23:36:28 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (ae8acc30f5cf0ca77ed4c75c425eb001)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:36:30 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (ae8acc30f5cf0ca77ed4c75c425eb001)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> xpath: .//*[@id='email_create']]
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:36:30 INFO  Homepage:111 - Email Address Entered testgmailcom
+2017-07-14 23:36:30 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:36:30 INFO  Homepage:113 - Password Entered password123
+2017-07-14 23:36:30 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:36:30 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-14 23:36:31 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='SubmitCreate']
+2017-07-14 23:36:31 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:36:31 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> xpath: .//*[@id='SubmitCreate']]
+2017-07-14 23:36:31 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-14 23:36:31 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:36:32 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (ae8acc30f5cf0ca77ed4c75c425eb001)] -> id: SubmitLogin]
+2017-07-14 23:36:32 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:36:32 INFO  Homepage:116 - Clicked On Submit button and object is [[ChromeDriver: chrome on XP (ae8acc30f5cf0ca77ed4c75c425eb001)] -> id: SubmitLogin]
+2017-07-14 23:36:32 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-14 23:36:32 INFO  Homepage:120 - Error Message is Invalid email address.
+2017-07-14 23:36:32 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-14 23:36:32 INFO  TC001_LoginWithInvalidCredential:33 - ================ Finished Test ==================
+2017-07-14 23:36:32 INFO  WebEvenListener:125 - Found Element By : By.id: id_gender1
+2017-07-14 23:36:32 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: id_gender1]
+2017-07-14 23:36:32 INFO  WebEvenListener:125 - Found Element By : By.id: customer_firstname
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: customer_firstname]
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Found Element By : By.id: customer_firstname
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> id: SubmitLogin]
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Found Element By : By.id: customer_lastname
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: customer_lastname]
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Found Element By : By.id: customer_lastname
+2017-07-14 23:36:33 INFO  TestBase:194 - browser closed
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: email]
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: passwd]
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='days']
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='days']
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='days']
+2017-07-14 23:36:33 INFO  WebEvenListener:125 - Found Element By : By.tagName: option
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> xpath: .//*[@id='days']]] -> tag name: option]
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.id: months
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.id: months
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.id: months
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.tagName: option
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: months]] -> tag name: option]
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='years']
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='years']
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='years']
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//option[@value = "1991"]
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> xpath: .//*[@id='years']]] -> xpath: .//option[@value = "1991"]]
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.id: address1
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: address1]
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.id: address1
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.id: address1
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.id: city
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: city]
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.id: city
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.id: id_state
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.id: id_state
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.id: id_state
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//option[normalize-space(.) = "New York"]
+2017-07-14 23:36:34 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: id_state]] -> xpath: .//option[normalize-space(.) = "New York"]]
+2017-07-14 23:36:35 INFO  WebEvenListener:125 - Found Element By : By.id: postcode
+2017-07-14 23:36:35 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: postcode]
+2017-07-14 23:36:35 INFO  WebEvenListener:125 - Found Element By : By.id: postcode
+2017-07-14 23:36:35 INFO  WebEvenListener:125 - Found Element By : By.id: phone_mobile
+2017-07-14 23:36:35 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: phone_mobile]
+2017-07-14 23:36:35 INFO  WebEvenListener:125 - Found Element By : By.id: phone_mobile
+2017-07-14 23:36:35 INFO  WebEvenListener:125 - Found Element By : By.id: submitAccount
+2017-07-14 23:36:37 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (493c6bfb54a8c26f9fd78b44bc6fbb75)] -> id: submitAccount]
+2017-07-14 23:36:37 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='columns']/div[1]/span[2]
+2017-07-14 23:36:37 INFO  TC0002_CreateAnAccount:43 - ================ Finished Test ==================
+2017-07-14 23:37:23 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir3384_2369}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 926d06e8201365e73fcb49258fc32b1e
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-14 23:37:23 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-14 23:37:23 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:37:23 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:37:25 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-14 23:37:25 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-14 23:37:26 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-14 23:37:26 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:37:27 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:37:27 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:37:27 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:37:27 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:37:27 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-14 23:37:27 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:37:27 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-14 23:37:27 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:37:29 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> id: SubmitLogin]
+2017-07-14 23:38:19 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir3384_2369}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 926d06e8201365e73fcb49258fc32b1e
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-14 23:38:19 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-14 23:38:19 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:38:20 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:38:22 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-14 23:38:22 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-14 23:38:22 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-14 23:38:22 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:38:24 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:38:24 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:38:24 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:38:24 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:38:24 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-14 23:38:24 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:38:24 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-14 23:38:24 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:38:25 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> id: SubmitLogin]
+2017-07-14 23:39:15 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir3384_2369}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 926d06e8201365e73fcb49258fc32b1e
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-14 23:39:15 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-14 23:39:15 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:39:16 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:39:18 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-14 23:39:18 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-14 23:39:18 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-14 23:39:18 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:39:20 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:39:20 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:39:20 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:39:20 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:39:20 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-14 23:39:20 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:39:20 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-14 23:39:20 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:39:22 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> id: SubmitLogin]
+2017-07-14 23:40:12 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir3384_2369}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 926d06e8201365e73fcb49258fc32b1e
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-14 23:40:12 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-14 23:40:12 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:40:12 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:40:14 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (926d06e8201365e73fcb49258fc32b1e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-14 23:40:14 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-14 23:40:15 INFO  TestBase:56 - Creating object of chrome
+2017-07-14 23:40:15 INFO  TestBase:56 - Creating object of chrome
+2017-07-14 23:40:27 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-14 23:40:27 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-14 23:40:28 INFO  TestBase:32 - =======Starting verifyAaddToCart test========
+2017-07-14 23:40:28 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-14 23:40:29 INFO  TestBase:28 - =======Starting verifyAaddToCart test========
+2017-07-14 23:40:29 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-14 23:40:33 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (39f51c4d00f3b70c26111b3138a41984)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-14 23:40:33 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:40:33 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:40:34 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4b665740101ea5acbe14bc61da52f456)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-14 23:40:34 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:40:34 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-14 23:40:36 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4b665740101ea5acbe14bc61da52f456)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-14 23:40:36 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-07-14 23:40:37 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (39f51c4d00f3b70c26111b3138a41984)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-14 23:40:37 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-07-14 23:40:39 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4b665740101ea5acbe14bc61da52f456)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-07-14 23:40:39 INFO  WebEvenListener:125 - Found Element By : By.cssSelector: .facebook>a
+2017-07-14 23:40:39 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4b665740101ea5acbe14bc61da52f456)] -> css selector: .facebook>a]
+2017-07-14 23:40:41 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (39f51c4d00f3b70c26111b3138a41984)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-07-14 23:40:42 INFO  TestBase:194 - browser closed
+2017-07-14 23:41:30 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".fb_logo.img.sp_apXA4TNie-C.sx_d16af2"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 51.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir5552_30081}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 4b665740101ea5acbe14bc61da52f456
+*** Element info: {Using=css selector, value=.fb_logo.img.sp_apXA4TNie-C.sx_d16af2}
+2017-07-14 23:41:32 INFO  TestBase:194 - browser closed
+2017-07-14 23:55:31 INFO  TestBase:56 - Creating object of chrome
+2017-07-14 23:55:41 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-14 23:55:43 INFO  TestBase:56 - Creating object of chrome
+2017-07-14 23:55:53 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-14 23:55:54 INFO  TC001_LoginWithInvalidCredential:29 - ================ Starting Test ==================
+2017-07-14 23:55:54 INFO  TC0002_CreateAnAccount:32 - ================ Starting Test ==================
+2017-07-14 23:55:55 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:55:55 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:55:55 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-14 23:55:55 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:55:57 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (81627626a78e315e273f1834c97b00f3)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:55:57 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:55:57 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (81627626a78e315e273f1834c97b00f3)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:55:57 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:55:57 INFO  Homepage:111 - Email Address Entered testgmailcom
+2017-07-14 23:55:57 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:55:57 INFO  Homepage:113 - Password Entered password123
+2017-07-14 23:55:57 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:55:58 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:55:58 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:55:58 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:55:58 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:55:58 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-14 23:55:58 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:55:58 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (2b482b16af18447d8f3cb76602b3809d)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:55:58 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-14 23:55:58 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-14 23:55:58 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (2b482b16af18447d8f3cb76602b3809d)] -> xpath: .//*[@id='email_create']]
+2017-07-14 23:55:58 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-14 23:55:58 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:55:58 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='SubmitCreate']
+2017-07-14 23:55:58 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (2b482b16af18447d8f3cb76602b3809d)] -> xpath: .//*[@id='SubmitCreate']]
+2017-07-14 23:55:59 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (81627626a78e315e273f1834c97b00f3)] -> id: SubmitLogin]
+2017-07-14 23:55:59 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:55:59 INFO  Homepage:116 - Clicked On Submit button and object is [[ChromeDriver: chrome on XP (81627626a78e315e273f1834c97b00f3)] -> id: SubmitLogin]
+2017-07-14 23:55:59 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-14 23:55:59 INFO  Homepage:120 - Error Message is Invalid email address.
+2017-07-14 23:55:59 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-14 23:55:59 INFO  TC001_LoginWithInvalidCredential:34 - ================ Finished Test ==================
+2017-07-14 23:56:00 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> id: SubmitLogin]
+2017-07-14 23:56:00 INFO  TestBase:194 - browser closed
+2017-07-14 23:56:49 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir7564_17076}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 2b482b16af18447d8f3cb76602b3809d
+*** Element info: {Using=id, value=id_gender1}
+2017-07-14 23:56:50 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6956_12560}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 973753cbcb176369bb3963f22ed70e3a
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-14 23:56:50 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-14 23:56:50 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:56:51 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:56:53 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-14 23:56:53 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-14 23:56:53 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-14 23:56:53 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:56:55 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:56:55 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:56:55 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:56:55 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:56:55 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-14 23:56:55 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:56:55 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-14 23:56:55 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:56:58 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> id: SubmitLogin]
+2017-07-14 23:57:48 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6956_12560}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 973753cbcb176369bb3963f22ed70e3a
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-14 23:57:48 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-14 23:57:48 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:57:48 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:57:50 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-14 23:57:50 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-14 23:57:50 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-14 23:57:50 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:57:52 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:57:52 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:57:52 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:57:52 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:57:52 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-14 23:57:52 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:57:52 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-14 23:57:52 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:57:55 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> id: SubmitLogin]
+2017-07-14 23:58:45 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6956_12560}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 973753cbcb176369bb3963f22ed70e3a
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-14 23:58:45 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-14 23:58:45 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:58:46 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:58:48 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-14 23:58:48 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-14 23:58:48 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-14 23:58:48 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:58:49 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:58:49 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-14 23:58:49 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-14 23:58:49 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-14 23:58:49 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-14 23:58:49 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-14 23:58:50 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-14 23:58:50 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-14 23:58:51 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> id: SubmitLogin]
+2017-07-14 23:59:41 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6956_12560}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 973753cbcb176369bb3963f22ed70e3a
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-14 23:59:41 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-14 23:59:41 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:59:42 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-14 23:59:44 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (973753cbcb176369bb3963f22ed70e3a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-14 23:59:44 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-14 23:59:45 INFO  TestBase:56 - Creating object of chrome
+2017-07-14 23:59:45 INFO  TestBase:56 - Creating object of chrome
+2017-07-14 23:59:58 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-14 23:59:59 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-15 00:00:00 INFO  TestBase:32 - =======Starting verifyAaddToCart test========
+2017-07-15 00:00:00 INFO  TestBase:28 - =======Starting verifyAaddToCart test========
+2017-07-15 00:00:00 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-15 00:00:00 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-15 00:00:05 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (55fc25cd8eaf1335e055fbc6a61f8094)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-15 00:00:05 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (26e6c1ee37eedf040172bbf477ff944a)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-15 00:00:05 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-15 00:00:05 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-15 00:00:05 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-15 00:00:05 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-15 00:00:06 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (26e6c1ee37eedf040172bbf477ff944a)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-15 00:00:06 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-07-15 00:00:07 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (55fc25cd8eaf1335e055fbc6a61f8094)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-15 00:00:07 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-07-15 00:00:09 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (26e6c1ee37eedf040172bbf477ff944a)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-07-15 00:00:10 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (55fc25cd8eaf1335e055fbc6a61f8094)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-07-15 00:00:10 INFO  WebEvenListener:125 - Found Element By : By.cssSelector: .facebook>a
+2017-07-15 00:00:10 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (55fc25cd8eaf1335e055fbc6a61f8094)] -> css selector: .facebook>a]
+2017-07-15 00:00:10 INFO  TestBase:194 - browser closed
+2017-07-15 00:01:01 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".fb_logo.img.sp_apXA4TNie-C.sx_d16af2"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 51.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir8796_4134}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 55fc25cd8eaf1335e055fbc6a61f8094
+*** Element info: {Using=css selector, value=.fb_logo.img.sp_apXA4TNie-C.sx_d16af2}
+2017-07-15 00:01:03 INFO  TestBase:194 - browser closed
+2017-07-15 00:03:48 INFO  TestBase:56 - Creating object of chrome
+2017-07-15 00:04:00 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-15 00:04:01 INFO  TestBase:56 - Creating object of chrome
+2017-07-15 00:04:13 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-15 00:04:15 INFO  TC0002_CreateAnAccount:32 - ================ Starting Test ==================
+2017-07-15 00:04:15 INFO  TC001_LoginWithInvalidCredential:29 - ================ Starting Test ==================
+2017-07-15 00:04:15 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-15 00:04:15 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-15 00:04:15 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-15 00:04:15 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-15 00:04:17 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (6b892ab499aee0700cf052547693913e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-15 00:04:17 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-15 00:04:17 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (6b892ab499aee0700cf052547693913e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-15 00:04:17 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-15 00:04:17 INFO  Homepage:111 - Email Address Entered testgmailcom
+2017-07-15 00:04:17 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-15 00:04:17 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (2de9ba8f826c74fcd34c7810ae8611d0)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-15 00:04:17 INFO  Homepage:113 - Password Entered password123
+2017-07-15 00:04:17 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-15 00:04:18 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-15 00:04:18 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-15 00:04:18 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (2de9ba8f826c74fcd34c7810ae8611d0)] -> xpath: .//*[@id='email_create']]
+2017-07-15 00:04:18 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-15 00:04:18 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-15 00:04:18 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-15 00:04:18 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-15 00:04:18 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-15 00:04:18 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-15 00:04:18 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='SubmitCreate']
+2017-07-15 00:04:18 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (2de9ba8f826c74fcd34c7810ae8611d0)] -> xpath: .//*[@id='SubmitCreate']]
+2017-07-15 00:04:18 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-15 00:04:18 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-15 00:04:19 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (6b892ab499aee0700cf052547693913e)] -> id: SubmitLogin]
+2017-07-15 00:04:19 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-15 00:04:19 INFO  Homepage:116 - Clicked On Submit button and object is [[ChromeDriver: chrome on XP (6b892ab499aee0700cf052547693913e)] -> id: SubmitLogin]
+2017-07-15 00:04:19 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-15 00:04:19 INFO  Homepage:120 - Error Message is Invalid email address.
+2017-07-15 00:04:19 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-15 00:04:20 INFO  TC001_LoginWithInvalidCredential:34 - ================ Finished Test ==================
+2017-07-15 00:04:20 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> id: SubmitLogin]
+2017-07-15 00:04:21 INFO  TestBase:194 - browser closed
+2017-07-15 00:05:08 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir7648_11479}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 2de9ba8f826c74fcd34c7810ae8611d0
+*** Element info: {Using=id, value=id_gender1}
+2017-07-15 00:05:10 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6872_21868}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 07ca7f9aa5afbb9d6ebb9f63b46173e8
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-15 00:05:10 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-15 00:05:10 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-15 00:05:11 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-15 00:05:13 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-15 00:05:13 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-15 00:05:13 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-15 00:05:13 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-15 00:05:14 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-15 00:05:15 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-15 00:05:15 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-15 00:05:15 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-15 00:05:15 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-15 00:05:15 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-15 00:05:15 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-15 00:05:15 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-15 00:05:17 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> id: SubmitLogin]
+2017-07-15 00:06:07 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6872_21868}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 07ca7f9aa5afbb9d6ebb9f63b46173e8
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-15 00:06:07 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-15 00:06:07 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-15 00:06:07 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-15 00:06:10 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-15 00:06:10 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-15 00:06:10 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-15 00:06:10 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-15 00:06:11 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-15 00:06:11 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-15 00:06:11 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-15 00:06:11 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-15 00:06:11 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-15 00:06:11 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-15 00:06:12 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-15 00:06:12 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-15 00:06:14 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> id: SubmitLogin]
+2017-07-15 00:07:04 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6872_21868}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 07ca7f9aa5afbb9d6ebb9f63b46173e8
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-15 00:07:04 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-15 00:07:04 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-15 00:07:04 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-15 00:07:06 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-15 00:07:06 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-15 00:07:06 INFO  TC0003_VerifyLoginWithDifferentRecords:43 - ================ Starting Test ==================
+2017-07-15 00:07:06 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-15 00:07:08 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-15 00:07:08 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-15 00:07:08 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-15 00:07:08 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-15 00:07:08 INFO  Homepage:111 - Email Address Entered asfasf@asf.com
+2017-07-15 00:07:08 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-15 00:07:08 INFO  Homepage:113 - Password Entered ajinkya99
+2017-07-15 00:07:08 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-15 00:07:10 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> id: SubmitLogin]
+2017-07-15 00:08:00 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"SubmitLogin"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir6872_21868}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 07ca7f9aa5afbb9d6ebb9f63b46173e8
+*** Element info: {Using=id, value=SubmitLogin}
+2017-07-15 00:08:00 INFO  Homepage:116 - Clicked On Submit button and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+2017-07-15 00:08:00 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-15 00:08:00 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-07-15 00:08:03 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (07ca7f9aa5afbb9d6ebb9f63b46173e8)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-07-15 00:08:03 INFO  TC0003_VerifyLoginWithDifferentRecords:53 - ================ Finished Test ==================
+2017-07-15 00:08:04 INFO  TestBase:56 - Creating object of chrome
+2017-07-15 00:08:04 INFO  TestBase:56 - Creating object of chrome
+2017-07-15 00:08:15 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-15 00:08:16 INFO  TestBase:82 - Navigating to http://automationpractice.com/index.php
+2017-07-15 00:08:17 INFO  TestBase:32 - =======Starting verifyAaddToCart test========
+2017-07-15 00:08:17 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-15 00:08:17 INFO  TestBase:28 - =======Starting verifyAaddToCart test========
+2017-07-15 00:08:17 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-07-15 00:08:20 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (124c8687fa181efed3ca84d0770b79a6)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-15 00:08:20 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-15 00:08:20 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-15 00:08:22 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (124c8687fa181efed3ca84d0770b79a6)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-15 00:08:22 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-07-15 00:08:22 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (2453d47993ab599ae29b4df2b1046a25)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-07-15 00:08:23 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-15 00:08:23 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-07-15 00:08:24 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (2453d47993ab599ae29b4df2b1046a25)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-07-15 00:08:24 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-07-15 00:08:24 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (124c8687fa181efed3ca84d0770b79a6)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-07-15 00:08:24 INFO  WebEvenListener:125 - Found Element By : By.cssSelector: .facebook>a
+2017-07-15 00:08:24 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (124c8687fa181efed3ca84d0770b79a6)] -> css selector: .facebook>a]
+2017-07-15 00:08:26 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (2453d47993ab599ae29b4df2b1046a25)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-07-15 00:08:27 INFO  TestBase:194 - browser closed
+2017-07-15 00:08:47 INFO  WebEvenListener:125 - Found Element By : By.cssSelector: .fb_logo.img.sp_apXA4TNie-C.sx_d16af2
+2017-07-15 00:08:49 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir3688_20131}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 124c8687fa181efed3ca84d0770b79a6
+2017-07-15 00:08:49 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.194', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\ajinkya.bh\AppData\Local\Temp\scoped_dir3688_20131}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 124c8687fa181efed3ca84d0770b79a6
+2017-07-15 00:08:50 INFO  TestBase:194 - browser closed
+2017-07-28 16:29:26 INFO  TC001_LoginWithInvalidCredential:29 - ================ Starting Test ==================
+2017-07-28 16:29:26 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 16:29:29 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (fb6d47a2ba6998dd5ec5afc057fb2984)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 16:29:29 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 16:29:29 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (fb6d47a2ba6998dd5ec5afc057fb2984)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 16:29:29 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-28 16:29:29 INFO  Homepage:111 - Email Address Entered testgmailcom
+2017-07-28 16:29:29 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-28 16:29:29 INFO  Homepage:113 - Password Entered password123
+2017-07-28 16:29:29 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 16:29:31 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (fb6d47a2ba6998dd5ec5afc057fb2984)] -> id: SubmitLogin]
+2017-07-28 16:29:31 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 16:29:31 INFO  Homepage:116 - Clicked On Submit button and object is [[ChromeDriver: chrome on XP (fb6d47a2ba6998dd5ec5afc057fb2984)] -> id: SubmitLogin]
+2017-07-28 16:29:31 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 16:29:31 INFO  Homepage:120 - Error Message is Invalid email address.
+2017-07-28 16:29:31 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 16:29:31 INFO  TC001_LoginWithInvalidCredential:34 - ================ Finished Test ==================
+2017-07-28 16:29:33 INFO  TestBase:194 - browser closed
+2017-07-28 16:32:49 INFO  TC001_LoginWithInvalidCredential:29 - ================ Starting Test ==================
+2017-07-28 16:32:49 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 16:32:51 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (9c16b7ed8963a06e63ee3fd239da8708)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 16:32:51 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 16:32:51 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (9c16b7ed8963a06e63ee3fd239da8708)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 16:32:51 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-28 16:32:52 INFO  Homepage:111 - Email Address Entered testgmailcom
+2017-07-28 16:32:52 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-28 16:32:52 INFO  Homepage:113 - Password Entered password123
+2017-07-28 16:32:52 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 16:32:53 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (9c16b7ed8963a06e63ee3fd239da8708)] -> id: SubmitLogin]
+2017-07-28 16:32:53 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 16:32:53 INFO  Homepage:116 - Clicked On Submit button and object is [[ChromeDriver: chrome on XP (9c16b7ed8963a06e63ee3fd239da8708)] -> id: SubmitLogin]
+2017-07-28 16:32:53 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 16:32:53 INFO  Homepage:120 - Error Message is Invalid email address.
+2017-07-28 16:32:53 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 16:32:54 INFO  TC001_LoginWithInvalidCredential:34 - ================ Finished Test ==================
+2017-07-28 16:32:55 INFO  TestBase:194 - browser closed
+2017-07-28 16:37:35 INFO  TC001_LoginWithInvalidCredential:29 - ================ Starting Test ==================
+2017-07-28 16:37:35 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 16:37:38 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4d8a5243bd55132ce06ebb60e824425e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 16:37:38 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 16:37:38 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (4d8a5243bd55132ce06ebb60e824425e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 16:37:38 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-28 16:37:38 INFO  Homepage:111 - Email Address Entered testgmailcom
+2017-07-28 16:37:38 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-28 16:37:38 INFO  Homepage:113 - Password Entered password123
+2017-07-28 16:37:38 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 16:37:39 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (4d8a5243bd55132ce06ebb60e824425e)] -> id: SubmitLogin]
+2017-07-28 16:37:39 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 16:37:39 INFO  Homepage:116 - Clicked On Submit button and object is [[ChromeDriver: chrome on XP (4d8a5243bd55132ce06ebb60e824425e)] -> id: SubmitLogin]
+2017-07-28 16:37:39 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 16:37:40 INFO  Homepage:120 - Error Message is Invalid email address.
+2017-07-28 16:37:40 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 16:37:40 INFO  TC001_LoginWithInvalidCredential:34 - ================ Finished Test ==================
+2017-07-28 16:37:41 INFO  TestBase:194 - browser closed
+2017-07-28 16:39:04 INFO  TC0002_CreateAnAccount:32 - ================ Starting Test ==================
+2017-07-28 16:39:04 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 16:39:06 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (52c60aa85ca94d1faa19132757ef5946)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 16:39:07 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 16:39:07 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (52c60aa85ca94d1faa19132757ef5946)] -> xpath: .//*[@id='email_create']]
+2017-07-28 16:39:07 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 16:39:07 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='SubmitCreate']
+2017-07-28 16:39:07 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (52c60aa85ca94d1faa19132757ef5946)] -> xpath: .//*[@id='SubmitCreate']]
+2017-07-28 16:39:57 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\windows\TEMP\scoped_dir5732_31206}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 52c60aa85ca94d1faa19132757ef5946
+*** Element info: {Using=id, value=id_gender1}
+2017-07-28 16:41:31 INFO  TC0002_CreateAnAccount:32 - ================ Starting Test ==================
+2017-07-28 16:41:31 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 16:41:33 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 16:41:33 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 16:41:34 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> xpath: .//*[@id='email_create']]
+2017-07-28 16:41:34 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 16:41:34 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='SubmitCreate']
+2017-07-28 16:41:34 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> xpath: .//*[@id='SubmitCreate']]
+2017-07-28 16:41:35 INFO  WebEvenListener:125 - Found Element By : By.id: id_gender1
+2017-07-28 16:41:36 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: id_gender1]
+2017-07-28 16:41:36 INFO  WebEvenListener:125 - Found Element By : By.id: customer_firstname
+2017-07-28 16:41:36 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: customer_firstname]
+2017-07-28 16:41:36 INFO  WebEvenListener:125 - Found Element By : By.id: customer_firstname
+2017-07-28 16:41:36 INFO  WebEvenListener:125 - Found Element By : By.id: customer_lastname
+2017-07-28 16:41:36 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: customer_lastname]
+2017-07-28 16:41:36 INFO  WebEvenListener:125 - Found Element By : By.id: customer_lastname
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: email]
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: passwd]
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='days']
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='days']
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='days']
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.tagName: option
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> xpath: .//*[@id='days']]] -> tag name: option]
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.id: months
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.id: months
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.id: months
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.tagName: option
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: months]] -> tag name: option]
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='years']
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='years']
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='years']
+2017-07-28 16:41:37 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//option[@value = "1991"]
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> xpath: .//*[@id='years']]] -> xpath: .//option[@value = "1991"]]
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Found Element By : By.id: address1
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: address1]
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Found Element By : By.id: address1
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Found Element By : By.id: address1
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Found Element By : By.id: city
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: city]
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Found Element By : By.id: city
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Found Element By : By.id: id_state
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Found Element By : By.id: id_state
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Found Element By : By.id: id_state
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//option[normalize-space(.) = "New York"]
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: id_state]] -> xpath: .//option[normalize-space(.) = "New York"]]
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Found Element By : By.id: postcode
+2017-07-28 16:41:38 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: postcode]
+2017-07-28 16:41:39 INFO  WebEvenListener:125 - Found Element By : By.id: postcode
+2017-07-28 16:41:39 INFO  WebEvenListener:125 - Found Element By : By.id: phone_mobile
+2017-07-28 16:41:39 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: phone_mobile]
+2017-07-28 16:41:39 INFO  WebEvenListener:125 - Found Element By : By.id: phone_mobile
+2017-07-28 16:41:39 INFO  WebEvenListener:125 - Found Element By : By.id: submitAccount
+2017-07-28 16:41:41 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (0cd7c8c9234e6a1c12886e7824901fdf)] -> id: submitAccount]
+2017-07-28 16:41:41 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='columns']/div[1]/span[2]
+2017-07-28 16:41:41 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='columns']/div[1]/span[2]
+2017-07-28 16:41:42 INFO  TC0002_CreateAnAccount:45 - ================ Finished Test ==================
+2017-07-28 16:42:38 INFO  TC0002_CreateAnAccount:32 - ================ Starting Test ==================
+2017-07-28 16:42:38 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 16:42:41 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 16:42:41 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 16:42:41 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> xpath: .//*[@id='email_create']]
+2017-07-28 16:42:41 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 16:42:41 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='SubmitCreate']
+2017-07-28 16:42:41 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> xpath: .//*[@id='SubmitCreate']]
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Found Element By : By.id: id_gender1
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: id_gender1]
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Found Element By : By.id: customer_firstname
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: customer_firstname]
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Found Element By : By.id: customer_firstname
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Found Element By : By.id: customer_lastname
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: customer_lastname]
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Found Element By : By.id: customer_lastname
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: email]
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: passwd]
+2017-07-28 16:42:43 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='days']
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='days']
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='days']
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.tagName: option
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> xpath: .//*[@id='days']]] -> tag name: option]
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.id: months
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.id: months
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.id: months
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.tagName: option
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: months]] -> tag name: option]
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='years']
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='years']
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='years']
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//option[@value = "1991"]
+2017-07-28 16:42:44 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> xpath: .//*[@id='years']]] -> xpath: .//option[@value = "1991"]]
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: address1
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: address1]
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: address1
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: address1
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: city
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: city]
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: city
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: id_state
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: id_state
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: id_state
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//option[normalize-space(.) = "New York"]
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Clicked on: [[[[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: id_state]] -> xpath: .//option[normalize-space(.) = "New York"]]
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: postcode
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: postcode]
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: postcode
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: phone_mobile
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: phone_mobile]
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: phone_mobile
+2017-07-28 16:42:45 INFO  WebEvenListener:125 - Found Element By : By.id: submitAccount
+2017-07-28 16:42:48 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (99aa3f5b4c5dda77f7bb8cc839527b4b)] -> id: submitAccount]
+2017-07-28 16:42:48 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='columns']/div[1]/span[2]
+2017-07-28 16:42:48 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='columns']/div[1]/span[2]
+2017-07-28 16:42:48 INFO  TC0002_CreateAnAccount:45 - ================ Finished Test ==================
+2017-07-28 16:43:50 INFO  TC0002_CreateAnAccount:32 - ================ Starting Test ==================
+2017-07-28 16:43:50 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 16:43:53 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (924fb316e3f1703668ed0ed025bbf4a5)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 16:43:53 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 16:43:53 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (924fb316e3f1703668ed0ed025bbf4a5)] -> xpath: .//*[@id='email_create']]
+2017-07-28 16:43:53 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 16:43:53 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='SubmitCreate']
+2017-07-28 16:43:53 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (924fb316e3f1703668ed0ed025bbf4a5)] -> xpath: .//*[@id='SubmitCreate']]
+2017-07-28 16:44:43 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\windows\TEMP\scoped_dir10640_30030}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 924fb316e3f1703668ed0ed025bbf4a5
+*** Element info: {Using=id, value=id_gender1}
+2017-07-28 17:03:14 INFO  TC0002_CreateAnAccount:32 - ================ Starting Test ==================
+2017-07-28 17:03:14 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 17:03:16 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (3aad64c78378f459a531d5915258f5b0)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 17:03:16 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 17:03:16 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (3aad64c78378f459a531d5915258f5b0)] -> xpath: .//*[@id='email_create']]
+2017-07-28 17:03:16 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 17:03:17 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='SubmitCreate']
+2017-07-28 17:03:17 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (3aad64c78378f459a531d5915258f5b0)] -> xpath: .//*[@id='SubmitCreate']]
+2017-07-28 17:04:07 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\windows\TEMP\scoped_dir10324_607}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 3aad64c78378f459a531d5915258f5b0
+*** Element info: {Using=id, value=id_gender1}
+2017-07-28 17:08:16 INFO  TC0002_CreateAnAccount:32 - ================ Starting Test ==================
+2017-07-28 17:08:16 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 17:08:18 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a643619e3b19efb6c494029c1af886a0)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 17:08:18 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 17:08:18 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a643619e3b19efb6c494029c1af886a0)] -> xpath: .//*[@id='email_create']]
+2017-07-28 17:08:18 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='email_create']
+2017-07-28 17:08:18 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='SubmitCreate']
+2017-07-28 17:08:18 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (a643619e3b19efb6c494029c1af886a0)] -> xpath: .//*[@id='SubmitCreate']]
+2017-07-28 17:09:08 INFO  WebEvenListener:125 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'MMDCDAJINKYABH', ip: '172.16.136.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\windows\TEMP\scoped_dir8872_9526}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: a643619e3b19efb6c494029c1af886a0
+*** Element info: {Using=id, value=id_gender1}
+2017-07-28 17:10:06 INFO  TC001_LoginWithInvalidCredential:29 - ================ Starting Test ==================
+2017-07-28 17:10:06 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 17:10:09 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (fd5baefec812257ac56a8484504c989d)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 17:10:09 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 17:10:09 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (fd5baefec812257ac56a8484504c989d)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 17:10:09 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-28 17:10:09 INFO  Homepage:111 - Email Address Entered testgmailcom
+2017-07-28 17:10:09 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-28 17:10:09 INFO  Homepage:113 - Password Entered password123
+2017-07-28 17:10:09 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 17:10:11 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (fd5baefec812257ac56a8484504c989d)] -> id: SubmitLogin]
+2017-07-28 17:10:11 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 17:10:11 INFO  Homepage:116 - Clicked On Submit button and object is [[ChromeDriver: chrome on XP (fd5baefec812257ac56a8484504c989d)] -> id: SubmitLogin]
+2017-07-28 17:10:11 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 17:10:11 INFO  Homepage:120 - Error Message is Invalid email address.
+2017-07-28 17:10:11 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 17:10:11 INFO  TC001_LoginWithInvalidCredential:34 - ================ Finished Test ==================
+2017-07-28 17:10:13 INFO  TestBase:194 - browser closed
+2017-07-28 17:20:33 INFO  TC001_LoginWithInvalidCredential:29 - ================ Starting Test ==================
+2017-07-28 17:20:33 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 17:20:36 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (be2b7c2a7e1df60525176e38359767ae)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 17:20:36 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 17:20:36 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (be2b7c2a7e1df60525176e38359767ae)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 17:20:36 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-28 17:20:36 INFO  Homepage:111 - Email Address Entered testgmailcom
+2017-07-28 17:20:36 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-28 17:20:36 INFO  Homepage:113 - Password Entered password123
+2017-07-28 17:20:36 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 17:20:37 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (be2b7c2a7e1df60525176e38359767ae)] -> id: SubmitLogin]
+2017-07-28 17:20:37 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 17:20:37 INFO  Homepage:116 - Clicked On Submit button and object is [[ChromeDriver: chrome on XP (be2b7c2a7e1df60525176e38359767ae)] -> id: SubmitLogin]
+2017-07-28 17:20:37 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 17:20:37 INFO  Homepage:120 - Error Message is Invalid email address.
+2017-07-28 17:20:37 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 17:20:38 INFO  TC001_LoginWithInvalidCredential:34 - ================ Finished Test ==================
+2017-07-28 17:20:39 INFO  TestBase:194 - browser closed
+2017-07-28 17:24:36 INFO  TC001_LoginWithInvalidCredential:29 - ================ Starting Test ==================
+2017-07-28 17:24:36 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 17:24:38 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (05b7b5f8e811ea7ac37e55b69fc5ce5e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 17:24:38 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 17:24:38 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (05b7b5f8e811ea7ac37e55b69fc5ce5e)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 17:24:38 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-28 17:24:38 INFO  Homepage:111 - Email Address Entered testgmailcom
+2017-07-28 17:24:38 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-28 17:24:38 INFO  Homepage:113 - Password Entered password123
+2017-07-28 17:24:38 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 17:24:39 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (05b7b5f8e811ea7ac37e55b69fc5ce5e)] -> id: SubmitLogin]
+2017-07-28 17:24:39 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 17:24:39 INFO  Homepage:116 - Clicked On Submit button and object is [[ChromeDriver: chrome on XP (05b7b5f8e811ea7ac37e55b69fc5ce5e)] -> id: SubmitLogin]
+2017-07-28 17:24:39 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 17:24:39 INFO  Homepage:120 - Error Message is Invalid email address.
+2017-07-28 17:24:39 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 17:24:40 INFO  TC001_LoginWithInvalidCredential:34 - ================ Finished Test ==================
+2017-07-28 17:24:41 INFO  TestBase:194 - browser closed
+2017-07-28 17:31:44 INFO  TC001_LoginWithInvalidCredential:29 - ================ Starting Test ==================
+2017-07-28 17:31:44 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 17:31:46 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (93838391234ae910af5fd41620a5ccea)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 17:31:46 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-07-28 17:31:46 INFO  Homepage:109 - Clicked On SignIn and object is [[ChromeDriver: chrome on XP (93838391234ae910af5fd41620a5ccea)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-07-28 17:31:46 INFO  WebEvenListener:125 - Found Element By : By.id: email
+2017-07-28 17:31:46 INFO  Homepage:111 - Email Address Entered testgmailcom
+2017-07-28 17:31:46 INFO  WebEvenListener:125 - Found Element By : By.id: passwd
+2017-07-28 17:31:46 INFO  Homepage:113 - Password Entered password123
+2017-07-28 17:31:46 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 17:31:48 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (93838391234ae910af5fd41620a5ccea)] -> id: SubmitLogin]
+2017-07-28 17:31:48 INFO  WebEvenListener:125 - Found Element By : By.id: SubmitLogin
+2017-07-28 17:31:48 INFO  Homepage:116 - Clicked On Submit button and object is [[ChromeDriver: chrome on XP (93838391234ae910af5fd41620a5ccea)] -> id: SubmitLogin]
+2017-07-28 17:31:48 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 17:31:48 INFO  Homepage:120 - Error Message is Invalid email address.
+2017-07-28 17:31:48 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/div[1]/ol/li
+2017-07-28 17:31:48 INFO  TC001_LoginWithInvalidCredential:34 - ================ Finished Test ==================
+2017-07-28 17:31:49 INFO  TestBase:194 - browser closed
+2017-08-22 14:53:55 INFO  TestBase:32 - =======Starting verifyAaddToCart test========
+2017-08-22 14:53:55 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-08-22 14:53:58 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (1632878285c167466b3ac2643245410e)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-08-22 14:53:58 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-08-22 14:53:58 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-08-22 14:54:01 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (1632878285c167466b3ac2643245410e)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-08-22 14:54:01 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-08-22 14:54:04 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (1632878285c167466b3ac2643245410e)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-08-22 14:54:04 INFO  WebEvenListener:125 - Found Element By : By.cssSelector: .facebook>a
+2017-08-22 14:54:05 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (1632878285c167466b3ac2643245410e)] -> css selector: .facebook>a]
+2017-08-22 14:54:10 INFO  WebEvenListener:125 - Found Element By : By.cssSelector: .fb_logo.img.sp_apXA4TNie-C.sx_d16af2
+2017-08-22 14:54:12 INFO  TestBase:194 - browser closed
+2017-08-22 14:57:25 INFO  TestBase:32 - =======Starting verifyAaddToCart test========
+2017-08-22 14:57:25 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]
+2017-08-22 14:57:28 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e57d65968d9ced5f6701ba83e5c2e18e)] -> xpath: .//*[@id='block_top_menu']/ul/li/*[contains(@title,'Dresses')]]
+2017-08-22 14:57:28 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-08-22 14:57:28 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]
+2017-08-22 14:57:30 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e57d65968d9ced5f6701ba83e5c2e18e)] -> xpath: .//*[@id='categories_block_left']/div/ul/li/*[contains(text(), 'Evening Dresses')]]
+2017-08-22 14:57:30 INFO  WebEvenListener:125 - Found Element By : By.xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]
+2017-08-22 14:57:32 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e57d65968d9ced5f6701ba83e5c2e18e)] -> xpath: .//*[@id='center_column']/ul/li/div/div[2]/h5/a[contains(text(),'Printed Dress')]]
+2017-08-22 14:57:32 INFO  WebEvenListener:125 - Found Element By : By.cssSelector: .facebook>a
+2017-08-22 14:57:32 INFO  WebEvenListener:125 - Clicked on: [[ChromeDriver: chrome on XP (e57d65968d9ced5f6701ba83e5c2e18e)] -> css selector: .facebook>a]
+2017-08-22 14:57:38 INFO  WebEvenListener:125 - Found Element By : By.cssSelector: .fb_logo.img.sp_apXA4TNie-C.sx_d16af2
+2017-08-22 14:57:40 INFO  TestBase:194 - browser closed
